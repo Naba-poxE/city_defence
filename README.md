@@ -25,11 +25,11 @@ Full game you can find in city_defence_00_full.py.
  2. Clone Directory: ```git clone https://github.com/Naba-poxE/city_defence.git```
  3. ```cd city_defence```
  4. Install dependencies:   ```pip3 install -r requirements.txt```
- 5. Run [city_defence_00_full.py](city_defence_00_full.py): `python city_defence_00_full.py`
+ 5. Run [city_defence_00_full.py](city_defence_00_full.py): `python3 city_defence_00_full.py`
 
 ## For More info
 
-https://www.a1k0n.net/2011/07/20/donut-math.html
+https://www.nabaexpo.com
 
 
 
